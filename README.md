@@ -1,6 +1,6 @@
 # Battery Indicator App
 
-This is a battery indicator app which is used to know battery percentage of the system.
+This is a battery indicator app used to know the system's battery percentage.
 
 **Technologies used:**
 
@@ -11,6 +11,10 @@ This is a battery indicator app which is used to know battery percentage of the 
 #### Steps to Use:
 ---
 
-- Download the repository
+Download the repository
 
+"https://github.com/Meerasoni21/Battery-Indicator"
 
+- Go to the directory
+- Run the index.html file
+- Start Scrolling!!
