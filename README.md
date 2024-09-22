@@ -1,4 +1,4 @@
-# Battery Indicator App
+# Battery Indicator
 
 This battery indicator app is used to know the system's battery percentage.
 
