@@ -17,7 +17,7 @@ Download the repository
 
 - Go to the directory
 - Run the index.html file
-- You can check the current battery on your website
+- You can check the current battery status on your website
 
 #### Output/Screenshots
 
